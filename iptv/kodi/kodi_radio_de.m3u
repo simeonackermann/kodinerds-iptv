@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-name="ByteFM" group-title="Deutschland" radio="true" tvg-logo="https://www.byte.fm/static/images/ByteFM_Logo.png",ByteFM
-http://www.byte.fm/stream/bytefm.pls
+http://bytefm.cast.addradio.de/bytefm/main/high/stream.mp3
 #EXTINF:-1 tvg-name="detektorfm Wort" group-title="Deutschland" radio="true" tvg-logo="https://detektor.fm/wp-content/uploads/misc/dfm_Logo.png",detektorfm Wort
 https://detektor.fm/stream/mp3/wort/
 #EXTINF:-1 tvg-name="detektorfm Musik" group-title="Deutschland" radio="true" tvg-logo="https://detektor.fm/wp-content/uploads/misc/dfm_Logo.png",detektorfm Musik
