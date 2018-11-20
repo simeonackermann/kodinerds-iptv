@@ -5,9 +5,9 @@ https://detektor.fm/stream/mp3/wort/
 #EXTINF:-1 tvg-name="detektorfm Musik" group-title="Deutschland" radio="true" tvg-logo="https://detektor.fm/wp-content/uploads/misc/dfm_Logo.png",detektorfm Musik
 https://detektor.fm/stream/mp3/musik/
 #EXTINF:-1 tvg-name="Deutschlandfunk" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunk.png",Deutschlandfunk
-http://st01.dlf.de/dlf/01/128/mp3/stream.mp3
+https://www.deutschlandradio.de/streaming/dlf.m3u
 #EXTINF:-1 tvg-name="Deutschlandfunk Kultur" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunkkultur.png",Deutschlandfunk Kultur
-http://st02.dlf.de/dlf/02/128/mp3/stream.mp3
+https://www.deutschlandradio.de/streaming/dkultur.m3u
 #EXTINF:-1 tvg-name="Deutschlandfunk Nova" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunknova.png",Deutschlandfunk Nova
 http://st03.dlf.de/dlf/03/128/mp3/stream.mp3
 #EXTINF:-1 tvg-name="FluxFM" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fluxfm.png",FluxFM
@@ -19,4 +19,4 @@ http://mdr-284350-0.cast.mdr.de/mdr/284350/0/mp3/high/stream.mp3
 #EXTINF:-1 tvg-name="MDR KULTUR" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrkultur.png",MDR KULTUR
 http://mdr-284310-0.cast.mdr.de/mdr/284310/0/mp3/high/stream.mp3
 #EXTINF:-1 tvg-name="radioeins" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/radioeins.png",radioeins
-http://rbb-radioeins-live.cast.addradio.de/rbb/radioeins/live/mp3/128/stream.mp3
+http://www.radioeins.de/live.m3u
