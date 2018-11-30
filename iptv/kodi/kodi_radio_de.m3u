@@ -6,10 +6,22 @@ https://detektor.fm/stream/mp3/wort/
 https://detektor.fm/stream/mp3/musik/
 #EXTINF:-1 tvg-name="Deutschlandfunk" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunk.png",Deutschlandfunk
 https://www.deutschlandradio.de/streaming/dlf.m3u
-#EXTINF:-1 tvg-name="Deutschlandfunk Kultur" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunkkultur.png",Deutschlandfunk Kultur
+
+#EXTINF:-1 tvg-name="Deutschlandfunk Kultur (m3u)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunkkultur.png",Deutschlandfunk Kultur
 https://www.deutschlandradio.de/streaming/dkultur.m3u
+
+#EXTINF:-1 tvg-name="Deutschlandfunk Kultur (mp3)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunkkultur.png",Deutschlandfunk Kultur
+http://st02.dlf.de/dlf/02/128/mp3/stream.mp3
+
+#EXTINF:-1 tvg-name="Deutschlandfunk Kultur (OGG)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunkkultur.png",Deutschlandfunk Kultur
+https://www.deutschlandradio.de/streaming/dkultur_hq_ogg.m3u
+
+#EXTINF:-1 tvg-name="Deutschlandfunk Kultur (OGG-Vorbis)" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunkkultur.png",Deutschlandfunk Kultur
+http://st02.dlf.de/dlf/02/104/ogg/stream.ogg
+
 #EXTINF:-1 tvg-name="Deutschlandfunk Nova" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/deutschlandfunknova.png",Deutschlandfunk Nova
 http://st03.dlf.de/dlf/03/128/mp3/stream.mp3
+
 #EXTINF:-1 tvg-name="FluxFM" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/fluxfm.png",FluxFM
 http://streams.fluxfm.de/live/mp3-320/audio/
 #EXTINF:-1 tvg-name="KiRaKa" group-title="Deutschland" radio="true" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/kiraka.png",KiRaKa
